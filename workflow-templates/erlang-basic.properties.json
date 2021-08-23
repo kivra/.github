@@ -1,0 +1,7 @@
+{
+    "name": "Erlang Basic",
+    "description": "Build and release Erlang projects",
+    "iconName": "erlang.svg",
+    "categories": ["Erlang"],
+    "filePatterns": ["Makefile"]
+}
